@@ -15,3 +15,13 @@
   <li>Tools: Git, GitHub, NuoDB, Postman, REST APIs, Linux, Docker, Kubernetes, NoSQL.</li>
   <li>Skills: DSA, HLD, LLD, OOPs, Agile, Back-end, CI/CD, SCRUM, Distributed Systems, TDD, PCS Tests.</li>
 </ul>
+
+
+<!-- Footer Section -->
+<h2>Let's Connect 🌐</h2>
+<p>Feel free to reach out to me via email or connect with me on LinkedIn. Let's collaborate and create amazing projects together!</p>
+
+<!-- Emojis -->
+<p align="center">
+  😎 🚀 💼 💡 📈 🔄 💻 🔐 🌐
+</p>
