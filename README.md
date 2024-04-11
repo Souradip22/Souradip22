@@ -4,7 +4,7 @@
   <a href="mailto:souradip.chandra97@gmail.com">Email</a> •
   <a href="https://leetcode.com/SOURADIP22">LeetCode</a> •
   Mobile: +91-7318757426 •
-  <a href="https://linkedin.com/in/souradip">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/souradip-c-563962141/">LinkedIn</a>
 </p>
 
 <!-- Skills Section -->
