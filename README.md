@@ -27,7 +27,6 @@ Interested in collaborating? <a href="https://www.souradip.ch/contact">Send me a
   <img title="Django" width="25px"  src="https://img.icons8.com/material-outlined/48/000000/django.png#gh-light-mode-only" />
   <img title="Django" width="25px"  src="https://img.icons8.com/material-outlined/48/ffffff/django.png#gh-dark-mode-only" />
   <img title="SQLite" width="25px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-  <img title="TailwindCSS" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img title="Nextjs" width="25px" src="https://imgur.com/hPofQoP.png" />
   <img title="NextAuth" width="25px" src="https://next-auth.js.org/img/logo/logo-sm.png"/>
   <img title="Firebase" width="25px" src="https://i.imgur.com/ySmf4g5.png" />
