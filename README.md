@@ -1,27 +1,13 @@
-<!-- Header Section -->
-<h1 align="center">Souradip Chandra 😎</h1>
-<p align="center">
-  <a href="mailto:souradip.chandra97@gmail.com">Email</a> •
-  <a href="https://leetcode.com/SOURADIP22">LeetCode</a> •
-  Mobile: +91-7318757426 •
-  <a href="https://www.linkedin.com/in/souradip-c-563962141/">LinkedIn</a>
-</p>
+# Hi, I'm Souradip 👋🏼 🧑🏻‍💻
 
-<!-- Skills Section -->
-<h2>Skills Summary 🚀</h2>
-<ul>
-  <li>Languages: Python, JAVA, JavaScript (ES5/ES6), Backbone, HTML5, CSS3.</li>
-  <li>Frameworks: Node.js, NextJs, Angular, RDFs, Supabase, Firebase.</li>
-  <li>Tools: Git, GitHub, NuoDB, Postman, REST APIs, Linux, Docker, Kubernetes, NoSQL.</li>
-  <li>Skills: DSA, HLD, LLD, OOPs, Agile, Back-end, CI/CD, SCRUM, Distributed Systems, TDD, PCS Tests.</li>
-</ul>
+<img src="https://raw.githubusercontent.com/Souradip22/Souradip22/main/og-home.png" alt="banner that says Souradip Chandra - software engineer">
+I am an SWE at Grid Dynamics, where I work with Google Wifi team. Before Grid, I used to work with Dassault Systèmes as a Research & Development Engineer.
+
+My passion lies in creating visually captivating interfaces, building robust tools, and refining user interactions to ensure they are both intuitive and delightful.
+
+Interested in collaborating? Send me a message
 
 
-<!-- Footer Section -->
-<h2>Let's Connect 🌐</h2>
-<p>Feel free to reach out to me via email or connect with me on LinkedIn. Let's collaborate and create amazing projects together!</p>
+## Find me around the web 🌎: 
 
-<!-- Emojis -->
-<p align="center">
-  😎 🚀 💼 💡 📈 🔄 💻 🔐 🌐
-</p>
+- Sharing updates on <a href="https://www.linkedin.com/in/souradip-ch/">LinkedIn</a> 💼
